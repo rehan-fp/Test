@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 List<String>name=[
-  "COMMON SNAKES",
+  "COMMON SNAKES In Sri-Lanka",
   "CAPTURE                ",
   "FIRST-AID              ",
   "ABOUT US            "
